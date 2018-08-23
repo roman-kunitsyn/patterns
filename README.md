@@ -1,8 +1,8 @@
-# patterns
-TypeScript implementation examples of common patterns
+# Patterns
+TypeScript implementation of common patterns
 
 
-## creational
+## Creational
 
 ### abstract-factory 
 ### builder 
@@ -10,7 +10,7 @@ TypeScript implementation examples of common patterns
 ### prototype 
 ### singleton 
 
-## structural
+## Structural
 
 ### adapter
 ### bridge 
@@ -20,7 +20,7 @@ TypeScript implementation examples of common patterns
 ### flyweight 
 ### proxy 
 
-## behavioral
+## Behavioral
 
 ### chain-of-responsibility 
 ### command 
