@@ -1,2 +1,2 @@
 # patterns
-TypeScript examples of common patterns
+TypeScript implementation examples of common patterns
